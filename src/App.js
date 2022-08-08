@@ -81,7 +81,7 @@ class App extends React.Component {
               <UserPanel user={currentUser} />
             }
             <p>Please fill in form on the right to get fast reply</p>
-            <img style={{width: '100%'}} src="http://via.placeholder.com/300x200" alt="" />
+            <img style={{width: '100%'}} src="https://placeimg.com/300/200/any" alt="" />
           </div>
           <div className="col-md-8">
             <ContactForm 
